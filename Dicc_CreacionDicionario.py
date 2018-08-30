@@ -8,7 +8,7 @@
 #   DESCRIPCIONES y las descripciones deben estar en la columna A
 # 2 Cantidad de palabras que tendrá el diccionario  (El usuario lo ingresa)
 # =================================OUTPUTS==================================
-# 1. Archivo .txt con las palabras más repetidas en el excel de entrada
+# 1. Archivo .txt con las palabras más repetidas en el excel de entrada Cambio
 
 import string
 from openpyxl import load_workbook
